@@ -17,6 +17,7 @@ Este é um repositório teste para ensinar como o Git funciona.
 - git log --decorate: Exibir os hashs associados a cada commit feito no repositório Git, lista as branches (ramificações) existentes, o autor, email do usuário cadastrado no Github e o comentário feito;
 - git diff: Exibir as novas modificações feitas antes da versão anterior;
 - git diff --name-only: Exibir o nome do arquivo modificado;
+- git commit -am "Editar Comentário": Editar comentário de um commit específico;
 
 Saiba mais em [Willian Juster](https://willianjuster.com.br)
 
